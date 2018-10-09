@@ -121,8 +121,8 @@ def load_questions():
 def get_random_category():
     categories = ["The Dark Arts", "Magical People", "Magical Objects", "Hogwarts", "Animals & Magical Creatures",
                   "Magical Spells & Potions"]
-    chosen_category = choice(categories)
-    return chosen_category
+    chosen_cetegory = choice(categories)
+    return chosen_cetegory
 
 
 # Function get_question(category, questions):
